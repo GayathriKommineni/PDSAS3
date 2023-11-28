@@ -1,0 +1,5 @@
+The average and highest values in the population exceed those in the sample.
+
+I've noticed that the percentile in the population is higher compared to the percentile in the sample.
+
+There's a minor variance between the statistics of the entire population and those derived from bootstrapping.
